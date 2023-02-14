@@ -1,3 +1,0 @@
-﻿  Injection.cpp
-C:\Users\NEO\Desktop\RavinAcademy\RedTeam-01\02\01-Injection\Injection\Injection\Injection.cpp(1381,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Injection.vcxproj -> C:\Users\NEO\Desktop\RavinAcademy\RedTeam-01\02\01-Injection\Injection\x64\Debug\Injection.exe
